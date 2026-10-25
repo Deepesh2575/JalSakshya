@@ -1,0 +1,6 @@
+Structure ID,Name,Type,Latitude,Longitude,Size (ha),Construction Year,District,Block,Village
+STR-MP-DAT-010,Kalyanpur Check Dam,check_dam,26.155000,78.765000,0.85,2021,Datia,Seondha,Kalyanpur
+STR-MP-DAT-011,Rampur Gaon Talab,pond,26.128000,78.810000,1.40,2022,Datia,Seondha,Rampur
+STR-MP-DAT-012,Chhoti Baori (Micro Pond),pond,26.141000,78.790000,0.08,2023,Datia,Seondha,Kakarua
+STR-MH-AHM-013,Supa Anicut & Check Dam,check_dam,18.995000,74.312000,1.60,2020,Ahmednagar,Parner,Supa
+STR-RJ-JAL-014,Pokhran Rainfed Talab,pond,26.912000,71.915000,2.10,2019,Jaisalmer,Pokhran,Ramdevra
